@@ -13,7 +13,7 @@ resource "kong_consumer" "consumer" {
 
 ## Argument Reference
 
-* `username` - (Required) The usernamae to use
+* `username` - (Required) The username to use
 * `custom_id` - (Required) A custom id for the consumer
 
 ## Import
